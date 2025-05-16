@@ -27,19 +27,22 @@ This data is used to generate visual insights that reflect customer behavior and
 ### 🏠 Home
 
 ![Image](https://github.com/user-attachments/assets/9cb193b6-e6c1-4b10-aca9-de94dc3f90ae)
+#
 
 ### 📉 Loan Analysis
 
 ![Image](https://github.com/user-attachments/assets/747e9976-7d05-4cfe-bf6c-dabd2c8f16f8)
 #
+
 ### 💰 Deposit Analysis
 
 ![Image](https://github.com/user-attachments/assets/8a62a922-83ff-4b86-a9bf-2daf55a62db9)
 #
+
 ### 📋 Summary
 #
 ![Image](https://github.com/user-attachments/assets/98b7cf87-82fd-4652-b4a6-b8adeed53621)
-
+#
 
 ## 🧾 Conclusion
 Empowered by modern data visualization capabilities, this Power BI dashboard showcases how analytical tools can play a critical role in the banking sector. By focusing on key performance indicators (KPIs) and visual insights, the dashboard enables smarter, data-driven decisions that minimize financial risk and optimize operations.
