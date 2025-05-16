@@ -31,13 +31,13 @@ This data is used to generate visual insights that reflect customer behavior and
 ### 📉 Loan Analysis
 
 ![Image](https://github.com/user-attachments/assets/747e9976-7d05-4cfe-bf6c-dabd2c8f16f8)
-
+#
 ### 💰 Deposit Analysis
 
 ![Image](https://github.com/user-attachments/assets/8a62a922-83ff-4b86-a9bf-2daf55a62db9)
-
+#
 ### 📋 Summary
-
+#
 ![Image](https://github.com/user-attachments/assets/98b7cf87-82fd-4652-b4a6-b8adeed53621)
 
 
